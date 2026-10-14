@@ -44,7 +44,7 @@ The curriculum advances through `briefing`, `missions`, and the guided feedback 
 Requirements: Node.js with ES module support (Node.js 18 or newer recommended).
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/progamer07745/learn-ethical-hacking-with-elliot
 cd learn-ethical-hacking-with-elliot
 node main.js
 ```
