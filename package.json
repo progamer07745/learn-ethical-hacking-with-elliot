@@ -1,0 +1,14 @@
+{
+  "name": "fsociety-cli-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
